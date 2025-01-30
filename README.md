@@ -1,4 +1,4 @@
-# Shopping Cart Web Application
+# Shopping Cart 
 
 ## Overview
 The **Shopping Cart** is an interactive web application designed to allow users to browse and purchase food items. The app displays food items with prices and allows users to add items to a shopping cart, view the cart, and place an order.
